@@ -1,1 +1,3 @@
 # EPAI_Assingment_17
+
+The validate module provides functionality to validate data structures against a specified template, checking for required keys, type correctness, and extra keys in nested dictionaries. It includes the validate, merge_with_defaultdict, and merge_with_counter functions, enabling users to ensure their data conforms to expected formats. The validate_test module contains comprehensive unit tests that verify the functionality of the validate module through various scenarios, including valid data, missing keys, and type mismatches. Users can easily install pytest and run the tests to ensure the reliability of the validation process in their projects.
